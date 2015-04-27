@@ -1,0 +1,4 @@
+Host bitbucket.org
+ IdentityFile /root/.ssh/akka-cluster-ro
+ IdentitiesOnly yes
+
